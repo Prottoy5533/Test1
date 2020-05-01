@@ -1,0 +1,22 @@
+D:\Class\DevSkill\ASP.Net\Class 06-Theme Intregation\dotnet-b3-code\DevSkill.LibrarySystem\DevSkill.Library.Framework\bin\Debug\netcoreapp3.1\DevSkill.Library.Framework.deps.json
+D:\Class\DevSkill\ASP.Net\Class 06-Theme Intregation\dotnet-b3-code\DevSkill.LibrarySystem\DevSkill.Library.Framework\bin\Debug\netcoreapp3.1\DevSkill.Library.Framework.dll
+D:\Class\DevSkill\ASP.Net\Class 06-Theme Intregation\dotnet-b3-code\DevSkill.LibrarySystem\DevSkill.Library.Framework\bin\Debug\netcoreapp3.1\DevSkill.Library.Framework.pdb
+D:\Class\DevSkill\ASP.Net\Class 06-Theme Intregation\dotnet-b3-code\DevSkill.LibrarySystem\DevSkill.Library.Framework\bin\Debug\netcoreapp3.1\DevSkill.Library.Data.dll
+D:\Class\DevSkill\ASP.Net\Class 06-Theme Intregation\dotnet-b3-code\DevSkill.LibrarySystem\DevSkill.Library.Framework\bin\Debug\netcoreapp3.1\DevSkill.Library.Data.pdb
+D:\Class\DevSkill\ASP.Net\Class 06-Theme Intregation\dotnet-b3-code\DevSkill.LibrarySystem\DevSkill.Library.Framework\obj\Debug\netcoreapp3.1\DevSkill.Library.Framework.csprojAssemblyReference.cache
+D:\Class\DevSkill\ASP.Net\Class 06-Theme Intregation\dotnet-b3-code\DevSkill.LibrarySystem\DevSkill.Library.Framework\obj\Debug\netcoreapp3.1\DevSkill.Library.Framework.AssemblyInfoInputs.cache
+D:\Class\DevSkill\ASP.Net\Class 06-Theme Intregation\dotnet-b3-code\DevSkill.LibrarySystem\DevSkill.Library.Framework\obj\Debug\netcoreapp3.1\DevSkill.Library.Framework.AssemblyInfo.cs
+D:\Class\DevSkill\ASP.Net\Class 06-Theme Intregation\dotnet-b3-code\DevSkill.LibrarySystem\DevSkill.Library.Framework\obj\Debug\netcoreapp3.1\DevSkill.Library.Framework.csproj.CopyComplete
+D:\Class\DevSkill\ASP.Net\Class 06-Theme Intregation\dotnet-b3-code\DevSkill.LibrarySystem\DevSkill.Library.Framework\obj\Debug\netcoreapp3.1\DevSkill.Library.Framework.dll
+D:\Class\DevSkill\ASP.Net\Class 06-Theme Intregation\dotnet-b3-code\DevSkill.LibrarySystem\DevSkill.Library.Framework\obj\Debug\netcoreapp3.1\DevSkill.Library.Framework.pdb
+D:\Class\DevSkill\ASP.Net\Class 17-Discussion on Workflow\Updated Code\DevSkill.LibrarySystem\DevSkill.Library.Framework\bin\Debug\netcoreapp3.1\DevSkill.Library.Framework.deps.json
+D:\Class\DevSkill\ASP.Net\Class 17-Discussion on Workflow\Updated Code\DevSkill.LibrarySystem\DevSkill.Library.Framework\bin\Debug\netcoreapp3.1\DevSkill.Library.Framework.dll
+D:\Class\DevSkill\ASP.Net\Class 17-Discussion on Workflow\Updated Code\DevSkill.LibrarySystem\DevSkill.Library.Framework\bin\Debug\netcoreapp3.1\DevSkill.Library.Framework.pdb
+D:\Class\DevSkill\ASP.Net\Class 17-Discussion on Workflow\Updated Code\DevSkill.LibrarySystem\DevSkill.Library.Framework\bin\Debug\netcoreapp3.1\DevSkill.Library.Data.dll
+D:\Class\DevSkill\ASP.Net\Class 17-Discussion on Workflow\Updated Code\DevSkill.LibrarySystem\DevSkill.Library.Framework\bin\Debug\netcoreapp3.1\DevSkill.Library.Data.pdb
+D:\Class\DevSkill\ASP.Net\Class 17-Discussion on Workflow\Updated Code\DevSkill.LibrarySystem\DevSkill.Library.Framework\obj\Debug\netcoreapp3.1\DevSkill.Library.Framework.csprojAssemblyReference.cache
+D:\Class\DevSkill\ASP.Net\Class 17-Discussion on Workflow\Updated Code\DevSkill.LibrarySystem\DevSkill.Library.Framework\obj\Debug\netcoreapp3.1\DevSkill.Library.Framework.AssemblyInfoInputs.cache
+D:\Class\DevSkill\ASP.Net\Class 17-Discussion on Workflow\Updated Code\DevSkill.LibrarySystem\DevSkill.Library.Framework\obj\Debug\netcoreapp3.1\DevSkill.Library.Framework.AssemblyInfo.cs
+D:\Class\DevSkill\ASP.Net\Class 17-Discussion on Workflow\Updated Code\DevSkill.LibrarySystem\DevSkill.Library.Framework\obj\Debug\netcoreapp3.1\DevSkill.Library.Framework.csproj.CopyComplete
+D:\Class\DevSkill\ASP.Net\Class 17-Discussion on Workflow\Updated Code\DevSkill.LibrarySystem\DevSkill.Library.Framework\obj\Debug\netcoreapp3.1\DevSkill.Library.Framework.dll
+D:\Class\DevSkill\ASP.Net\Class 17-Discussion on Workflow\Updated Code\DevSkill.LibrarySystem\DevSkill.Library.Framework\obj\Debug\netcoreapp3.1\DevSkill.Library.Framework.pdb

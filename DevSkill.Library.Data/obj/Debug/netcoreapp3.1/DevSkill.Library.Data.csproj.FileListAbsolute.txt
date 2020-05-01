@@ -1,0 +1,16 @@
+D:\Class\DevSkill\ASP.Net\Class 06-Theme Intregation\dotnet-b3-code\DevSkill.LibrarySystem\DevSkill.Library.Data\bin\Debug\netcoreapp3.1\DevSkill.Library.Data.deps.json
+D:\Class\DevSkill\ASP.Net\Class 06-Theme Intregation\dotnet-b3-code\DevSkill.LibrarySystem\DevSkill.Library.Data\bin\Debug\netcoreapp3.1\DevSkill.Library.Data.dll
+D:\Class\DevSkill\ASP.Net\Class 06-Theme Intregation\dotnet-b3-code\DevSkill.LibrarySystem\DevSkill.Library.Data\bin\Debug\netcoreapp3.1\DevSkill.Library.Data.pdb
+D:\Class\DevSkill\ASP.Net\Class 06-Theme Intregation\dotnet-b3-code\DevSkill.LibrarySystem\DevSkill.Library.Data\obj\Debug\netcoreapp3.1\DevSkill.Library.Data.csprojAssemblyReference.cache
+D:\Class\DevSkill\ASP.Net\Class 06-Theme Intregation\dotnet-b3-code\DevSkill.LibrarySystem\DevSkill.Library.Data\obj\Debug\netcoreapp3.1\DevSkill.Library.Data.AssemblyInfoInputs.cache
+D:\Class\DevSkill\ASP.Net\Class 06-Theme Intregation\dotnet-b3-code\DevSkill.LibrarySystem\DevSkill.Library.Data\obj\Debug\netcoreapp3.1\DevSkill.Library.Data.AssemblyInfo.cs
+D:\Class\DevSkill\ASP.Net\Class 06-Theme Intregation\dotnet-b3-code\DevSkill.LibrarySystem\DevSkill.Library.Data\obj\Debug\netcoreapp3.1\DevSkill.Library.Data.dll
+D:\Class\DevSkill\ASP.Net\Class 06-Theme Intregation\dotnet-b3-code\DevSkill.LibrarySystem\DevSkill.Library.Data\obj\Debug\netcoreapp3.1\DevSkill.Library.Data.pdb
+D:\Class\DevSkill\ASP.Net\Class 17-Discussion on Workflow\Updated Code\DevSkill.LibrarySystem\DevSkill.Library.Data\bin\Debug\netcoreapp3.1\DevSkill.Library.Data.deps.json
+D:\Class\DevSkill\ASP.Net\Class 17-Discussion on Workflow\Updated Code\DevSkill.LibrarySystem\DevSkill.Library.Data\bin\Debug\netcoreapp3.1\DevSkill.Library.Data.dll
+D:\Class\DevSkill\ASP.Net\Class 17-Discussion on Workflow\Updated Code\DevSkill.LibrarySystem\DevSkill.Library.Data\bin\Debug\netcoreapp3.1\DevSkill.Library.Data.pdb
+D:\Class\DevSkill\ASP.Net\Class 17-Discussion on Workflow\Updated Code\DevSkill.LibrarySystem\DevSkill.Library.Data\obj\Debug\netcoreapp3.1\DevSkill.Library.Data.csprojAssemblyReference.cache
+D:\Class\DevSkill\ASP.Net\Class 17-Discussion on Workflow\Updated Code\DevSkill.LibrarySystem\DevSkill.Library.Data\obj\Debug\netcoreapp3.1\DevSkill.Library.Data.AssemblyInfoInputs.cache
+D:\Class\DevSkill\ASP.Net\Class 17-Discussion on Workflow\Updated Code\DevSkill.LibrarySystem\DevSkill.Library.Data\obj\Debug\netcoreapp3.1\DevSkill.Library.Data.AssemblyInfo.cs
+D:\Class\DevSkill\ASP.Net\Class 17-Discussion on Workflow\Updated Code\DevSkill.LibrarySystem\DevSkill.Library.Data\obj\Debug\netcoreapp3.1\DevSkill.Library.Data.dll
+D:\Class\DevSkill\ASP.Net\Class 17-Discussion on Workflow\Updated Code\DevSkill.LibrarySystem\DevSkill.Library.Data\obj\Debug\netcoreapp3.1\DevSkill.Library.Data.pdb
